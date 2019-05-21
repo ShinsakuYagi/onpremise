@@ -61,3 +61,5 @@
 #   access_key: 'AKIXXXXXX'
 #   secret_key: 'XXXXXXX'
 #   bucket_name: 's3-bucket-name'
+
+system.url-prefix: http://127.0.0.1:9000

@@ -2,6 +2,8 @@
 
 Official bootstrap for running your own [Sentry](https://sentry.io/) with [Docker](https://www.docker.com/).
 
+Sentryのローカル環境を自身の環境で立ち上げる用。
+
 ## Requirements
 
  * Docker 1.10.0+
